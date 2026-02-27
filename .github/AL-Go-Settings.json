@@ -1,7 +1,7 @@
 {
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/18b12868260bca2252d77b2496c9025ac62a7414/Actions/.Modules/settings.schema.json",
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/d11c8325a781d11b443240117ce171c6f2a785a8/.Modules/settings.schema.json",
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview",
+  "templateUrl": "https://github.com/businesscentralapps/tmpe41O4x-PTE@main",
   "bcContainerHelperVersion": "preview",
   "runs-on": "windows-latest",
   "cacheImageName": "",
@@ -131,7 +131,7 @@
     ]
   },
   "UpdateALGoSystemFilesEnvironment": "Official-Build",
-  "templateSha": "3fade1e0ea16925283d81fee13ffaaf10b3ff630",
+  "templateSha": "70ceddf4e538806914b389c373dc10eead74bbd6",
   "commitOptions": {
     "messageSuffix": "Related to AB#539394",
     "pullRequestAutoMerge": true,
